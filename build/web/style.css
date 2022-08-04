@@ -1,0 +1,51 @@
+#bodyinscrire{
+   color: d6e1d5;
+}
+#baccueil{
+    color: dedccf;
+}
+#blogin{
+    color: d9e5e3;
+}
+.boen
+{
+    background-color: #5bba47;
+  border: none;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  font-family:Verdana ;
+}
+.bode
+{
+    background-color: #ed1c24;
+  border: none;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer; 
+  font-family:Verdana ;
+}
+.boco
+{
+   background-color: #00acc9;
+  border: none;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;   
+font-family:Verdana ;  
+}
